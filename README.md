@@ -1,2 +1,2 @@
-# c-27
-made rope javelin for bird with constraint
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
